@@ -305,7 +305,10 @@ section .box-container .box .content p{
 
 }
 
-/* testimonial*/
+/* testimonial
+.testimonials{
+  background: var(--ltgreen);
+}*/
 .testitestimonials .box-container{
     display: flex;
     flex-wrap: wrap;
@@ -314,7 +317,7 @@ section .box-container .box .content p{
   
   .testimonials .box-container .box{
     overflow: hidden;
-    box-shadow: 0 1rem 2rem rgba(0,0,0,.1);
+    box-shadow: 1 2rem 3rem rgba(0,0,0,.1);
     border:1rem solid #fff;
     border-radius: .5rem;
     flex:1 1 30rem;
