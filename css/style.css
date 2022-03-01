@@ -359,7 +359,7 @@ section .box-container .box .content p{
 
 /* contact */
 .contact{
-    background: url("/images/Mobile-Tech.jpg") center/cover;
+    background: url("images/Mobile-Tech.jpg") center/cover;
 }
   .contact .row{
     display: flex;
